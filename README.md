@@ -39,6 +39,7 @@ Welcome to my GitHub profile!
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -47,23 +48,13 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📱 Notable Projects
-
-- **DigitalWisers Platform**  
-  *Tech:* NestJS, React, PostgreSQL, Figma, REST APIs
-
-- **Asset Management Applications**  
-  *Tech:* Kotlin, ASP.NET, Oracle DB
-
-- **Electricity Meter Reading App**  
-  *Tech:* Kotlin, Java, Android Studio
-
----
-
 ## 🎓 Education
 
-**Computer Engineering**  
+**B.Sc. in Computer Engineering**  
 *Celal Bayar University (2015 – 2021)*
+
+**High School**  
+*85. Yıl Anadolu Lisesi (2011 - 2015)*
 
 ---
 
