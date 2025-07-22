@@ -48,6 +48,36 @@ Welcome to my GitHub profile!
 
 ---
 
+## 📱 Published Mobile Apps
+
+### 🧩 [Puzzle Challenge - Game](https://play.google.com/store/apps/details?id=com.mtcn.mpuzzlegame&pcampaignid=web_share)
+
+> A minimalist and brain-teasing puzzle game focused on clean design and relaxing gameplay.
+
+- AdMob integrated
+- Focused on simple yet addictive user experience
+
+---
+
+### 🗡️ [Knight Wars - Board Game](https://play.google.com/store/apps/details?id=com.mtcn.knightwars&pcampaignid=web_share)
+
+> Board game.
+
+- AdMob integrated
+
+---
+
+### 📝 [M Notes-Easy Notepad-Basit Not](https://play.google.com/store/apps/details?id=com.mtcn.mynotes&pcampaignid=web_share)
+
+> A beautifully simple note-taking app for daily tasks and quick thoughts.
+
+- Built using **Kotlin** and **Jetpack Compose**
+- Local data storage using **Room Database**
+- Emphasis on speed, clarity, and minimal distractions
+
+---
+
+
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering**  
