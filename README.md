@@ -32,6 +32,8 @@ Welcome to my GitHub profile!
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **Mobile:**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=android&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
@@ -40,6 +42,8 @@ Welcome to my GitHub profile!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat&logo=warp&logoColor=white)  
+![Trae](https://img.shields.io/badge/Trae-4E89FF?style=flat&logo=trae&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
