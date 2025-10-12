@@ -1,7 +1,6 @@
 # Hi, I'm Mert Çalışkan 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/developermert/)
-[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://www.mert-caliskan.com/)
 
 Welcome to my GitHub profile!
 
