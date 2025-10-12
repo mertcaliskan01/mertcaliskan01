@@ -95,7 +95,6 @@ Welcome to my GitHub profile!
 ## 🌐 Let's Connect
 
 - 📧 mcaliskanmert@gmail.com  
-- 🌍 [mert-caliskan.com](https://www.mert-caliskan.com/)  
 - 💼 [linkedin.com/in/developermert](https://www.linkedin.com/in/developermert/)
 
 ---
