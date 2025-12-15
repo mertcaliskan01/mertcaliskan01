@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 
 **Tools:**  
