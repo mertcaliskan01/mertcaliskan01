@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mert Çalışkan | Mobile Developer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --card-bg: #ffffff;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: var(--bg);
+            color: var(--text-main);
+            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 700px;
+            width: 100%;
+            background: var(--card-bg);
+            padding: 50px;
+            border-radius: 24px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+            border: 1px solid #f1f5f9;
+        }
+
+        header { text-align: center; margin-bottom: 40px; }
+
+        h1 { font-size: 32px; font-weight: 700; color: #0f172a; letter-spacing: -0.02em; }
+        .title { color: var(--primary); font-weight: 600; font-size: 18px; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 40px;
+            padding: 25px;
+            background: #f1f5f9;
+            border-radius: 16px;
+            font-size: 14px;
+        }
+
+        .contact-item { display: flex; align-items: center; gap: 8px; color: var(--text-main); text-decoration: none; transition: color 0.2s; }
+        .contact-item:hover { color: var(--primary); }
+
+        .summary { margin-bottom: 40px; }
+        .summary h2 { font-size: 20px; margin-bottom: 12px; color: #0f172a; }
+        .summary p { color: var(--text-muted); font-size: 15px; text-align: justify; }
+
+        .tech-stack { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 40px; }
+        .tag { background: #e2e8f0; color: #475569; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+
+        footer { text-align: center; border-top: 1px dotted #e2e8f0; padding-top: 30px; }
+        .footer-link {
+            text-decoration: none;
+            color: var(--primary);
+            font-weight: 600;
+            font-size: 14px;
+            padding: 10px 20px;
+            border: 2px solid var(--primary);
+            border-radius: 10px;
+            transition: all 0.3s;
+        }
+        .footer-link:hover { background: var(--primary); color: white; }
+
+        @media (max-width: 600px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 26px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Mert Çalışkan</h1>
+            <div class="title">Mobile Developer</div>
+        </header>
+
+        <div class="contact-info">
+            <a href="mailto:mcaliskanmert@gmail.com" class="contact-item">📧 mcaliskanmert@gmail.com</a>
+            <a href="https://linkedin.com/in/mert-caliskann" target="_blank" class="contact-item">🔗 LinkedIn</a>
+            <a href="https://github.com/mertcaliskan01" target="_blank" class="contact-item">💻 GitHub</a>
+            <div class="contact-item">📍 TURKEY</div>
+        </div>
+
+        <div class="summary">
+            <h2>Hakkımda</h2>
+            <p>Mobile Developer with proven experience in building high-quality applications for both native Android (Kotlin, Java) and cross-platform (React Native) environments. Experienced in the full mobile development lifecycle—from concept to deployment—with additional backend expertise in Node.js and .NET for developing scalable RESTful APIs. Focused on delivering performant, scalable, and user-centric mobile solutions.</p>
+        </div>
+
+        <div class="tech-stack">
+            <span class="tag">Android Native</span>
+            <span class="tag">React Native</span>
+            <span class="tag">Flutter</span>
+            <span class="tag">Node.js</span>
+            <span class="tag">NestJS</span>
+            <span class="tag">.NET</span>
+            <span class="tag">JavaScript</span>
+            <span class="tag">TypeScript</span>
+        </div>
+    </div>
+
+</body>
+</html>
